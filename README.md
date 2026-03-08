@@ -1,4 +1,4 @@
-# Workplans Progress
+# Board
 
 A single-file Kanban board that renders workplan Markdown files as cards organized by state: **Draft**, **Backlog**, **Doing**, and **Done**.
 
